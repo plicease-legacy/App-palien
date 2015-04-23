@@ -22,9 +22,17 @@ Alien distributions as well.
 
 Print out the compiler flags for the compiler
 
+## --dll
+
+Print out the DLLs, one per line
+
 ## --libs
 
 Print out the library flags for the linker
+
+## --modversion
+
+Print out the package version.
 
 ## --help | -h
 

@@ -7,6 +7,9 @@ pod_spelling_system:
     - cflags
     - libs
     - palien
+    - DLLs
+    - dll
+    - modversion
 
 pod_coverage:
   skip: 0
