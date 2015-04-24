@@ -22,6 +22,10 @@ Alien distributions as well.
 
 Print out the compiler flags for the compiler
 
+## --detail | -d
+
+Print out details for each package specified
+
 ## --dll
 
 Print out the DLLs, one per line
