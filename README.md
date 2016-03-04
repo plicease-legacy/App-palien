@@ -18,6 +18,14 @@ Alien distributions as well.
 
 # OPTIONS
 
+## --bin\_dir
+
+Print out a list of directories with executables in them.
+
+## --dir\_sep _string_
+
+Lists of directories are output separated by _string_, which defaults to ` `.
+
 ## --cflags
 
 Print out the compiler flags for the compiler
