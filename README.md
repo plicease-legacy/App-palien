@@ -18,11 +18,11 @@ Alien distributions as well.
 
 # OPTIONS
 
-## --bin\_dir
+## --bin-dir
 
 Print out a list of directories with executables in them.
 
-## --dir\_sep _string_
+## --dir-sep _string_
 
 Lists of directories are output separated by _string_, which defaults to ` `.
 
