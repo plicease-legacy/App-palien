@@ -1,3 +1,0 @@
-ExtUtils::MakeMaker
-Path::Class
-Test::More

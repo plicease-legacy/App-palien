@@ -1,4 +1,4 @@
-# palien
+# palien [![Build Status](https://secure.travis-ci.org/plicease/App-palien.png)](http://travis-ci.org/plicease/App-palien)
 
 Command line interface to Alien::Base
 
