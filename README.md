@@ -56,7 +56,11 @@ Print out the version of this command
 
 # AUTHOR
 
-Graham Ollis &lt;plicease@cpan.org>
+Author: Graham Ollis &lt;plicease@cpan.org>
+
+Contributors:
+
+Diab Jerius (DJERIUS)
 
 # COPYRIGHT AND LICENSE
 
