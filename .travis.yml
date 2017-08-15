@@ -6,6 +6,7 @@ install:
   - perlbrew list
   - dzil authordeps --missing | cpanm -n
   - dzil listdeps --missing | cpanm -n
+  - cp xt/release/release.yml author.yml
 
 perl:
   - "5.14"
